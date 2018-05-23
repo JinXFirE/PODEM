@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.4 (D:\Users\Ajinkya Munge\AppData\Local\Programs\Python\Python35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="D:\Users\Ajinkya Munge\AppData\Local\Programs\Python\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Users/Ajinkya Munge/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://D:/Users/Ajinkya Munge/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://D:/Users/Ajinkya Munge/AppData/Local/Programs/Python/Python35" />
+            <root type="simple" url="file://D:/Users/Ajinkya Munge/AppData/Local/Programs/Python/Python35/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-519004144" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
