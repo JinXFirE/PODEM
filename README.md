@@ -1,5 +1,5 @@
 # PODEM
-ATG system
+ATPG system
 ECE 6140
 Language : Python 3
 Interpreter : Python 3.5.4
